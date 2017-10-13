@@ -1,0 +1,15 @@
+Answer the following questions:
+
+1. What is the average number of trials it took you to break pre-image resistance based on 15 experiments?
+	About 12,000,000 trials.
+
+2. What is the average number of trials it took you to break collision-resistance based on 15 experiments? What is the collision that you found, and what is their hash?
+	About 4,000 trials.
+	
+	Example: Wr4inQVewsLzr Q8jozML70Sd5P2ydXl. Both have a hashes of ec5c27f14f4be08ab5314c7e8aecc57a9211d3141b40a16646719a1833801d9d and
+			ec5c270f54f30248574351c092e6cd88c4d99ab56bc876f9f53d3aa0eeb0b567, respectively.
+
+
+
+3. Which one is easier to break using brute force?
+	It is easier to brute force collision-resistance. 
